@@ -95,7 +95,7 @@ Update Google Sheet with Reply
 | G | Reply_Time | Time of incoming message |
 
 📌 Phone numbers **must include country code**  
-Example: `+918050823618`
+Example: `+17326590649`
 
 ---
 

@@ -175,13 +175,4 @@ https://api.twilio.com/2010-04-01/Accounts/{ACCOUNT_SID}/Messages.json
 
 ---
 
-## 👤 Author
-
-**Nithin**  
-Automation | Backend | WhatsApp Integrations  
-
----
-
-## 📜 License
-
 MIT License
